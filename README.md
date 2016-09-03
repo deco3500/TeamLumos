@@ -26,9 +26,9 @@ Week 8 Interim Sprint | 16th Sep 2016 | <ul><li>Details of the technology stack,
 Week 10 Interim Sprint | 7th Oct 2016 | <ul><li>Typical use case description of the mobile application and “News truck”, detailing ideal scenario and edge cases.</li><li>Presentation of our scaled down “News truck”, showing how it generally works.</li><li>The features of the “News truck”, how it achieves the problem space and encourages interactivity.</li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for week 12 interim sprint.</li><li>User testing results.</li><li>Documentation for UML diagrams and use cases</li><ul>
 Week 12 Interim Sprint | 21st Oct 2016 | <ul><li>Small demonstration of our mobile application interface through Mavelapp.</li><li>UX flow of our mobile app.</li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for the new interim sprint.</li><li>Details of the “News truck” prototype and what has changed since the last sprint.</li><ul>
 
+### Resources:
 
+## Team
+\#LocalNews, \#Community
 
-
-
-### Resources
 

@@ -16,7 +16,11 @@ For each Interim sprint, we will discuss how the project has progressed and whet
 --- | --- | ---
 Week 8 Interim Sprint | 16th Sep 2016 | <ul><li>Details of the technology stack, PHP backend, JavaScript, HTML/CSS Frontend.</li><li>Wireframe representation of mobile application.</li><li>Details of RESTful implementation.</li><li>Plan’s for prototyping the “News truck” and how it would be implemented.</li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for the new interim sprint.</li><ul>
 Week 10 Interim Sprint | 7th Oct 2016 | <ul><li>Typical use case description of the mobile application and “News truck”, detailing ideal scenario and edge cases.</li><li>Presentation of our scale down “News truck”, showing how it generally works.</li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for the new interim sprint.</li><ul>
-Week 12 Interim Sprint | 21st Oct 2016 | </li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for the new interim sprint.</li><ul>
+Week 12 Interim Sprint | 21st Oct 2016 | <ul><li>Small demonstration of our mobile application interface through Mavelapp.</li><li>UX flow of our mobile app.</li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for the new interim sprint.</li><ul>
+
+
+
+
 
 ### Resources
 

@@ -41,9 +41,14 @@ However, for the prototype we’ll require the following items:
 * iPad
 
 **Mobile Development**
-
+* Mobile or Web Developers and Designers
+* Android Device & iOS to conduct quality assurance 
+* Development Environment to design and program
+* Web services to host Server API & Database to store information 
 
 **News Acquisition** 
+* News gathering algorithm to obtain articles, either via RSS feeds or directly from sites. Unlikely to be geo specific
+* User generated content with GPS location. In addition, as the application is a free platform, locals can freely upload their news with ease. In order to integrate it into their current advertising structure, a guide would be provided. 
 
 ## Team
 **Social and Mobile:** \#Conservation, \#Coordination, \#Collaboration, \#Awareness, \#COMPUTER SUPPORTED COOPERATIVE WORK (CSCW)

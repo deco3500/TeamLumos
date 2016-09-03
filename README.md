@@ -29,6 +29,7 @@ Week 12 Interim Sprint | 21st Oct 2016 | <ul><li>Small demonstration of our mobi
 ### Resources:
 
 ## Team
-\#LocalNews, \#Community
+*Social and Mobile:* \#Conservation, \#Coordination, \#Collaboration, \#Awareness, \#COMPUTER SUPPORTED COOPERATIVE WORK (CSCW)
+*Journalism and News:* \#LocalNews, \#Community
 
 

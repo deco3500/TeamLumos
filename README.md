@@ -27,6 +27,23 @@ Week 10 Interim Sprint | 7th Oct 2016 | <ul><li>Typical use case description of 
 Week 12 Interim Sprint | 21st Oct 2016 | <ul><li>Small demonstration of our mobile application interface through Mavelapp.</li><li>UX flow of our mobile app.</li><li>Discoveries of any conflict and the processes used to reach a resolution.</li><li>Summary of what has been accomplished and plans for the new interim sprint.</li><li>Details of the “News truck” prototype and what has changed since the last sprint.</li><ul>
 
 ### Resources:
+In order to deploy the prototype there are several components that must be acquired. These items can be broken down into 3 main groups; News truck, mobile development and news acquisition. The required items for each section is detailed below.
+
+**News Truck:**
+*Medium or Light Truck
+*Capacitive 55” LCD touch screen or Rear Projection Screen with capacitive surface to allow interactivity. 
+*Human Driver with truck license
+*Cellular data (4G+) with Wi-fi router, enabling free Wifi within a certain range. The connection details are displayed on the truck surface. 
+*Audio speakers, surround sound 5.1 
+
+However, for the prototype we’ll require the following items:
+*RC Truck
+*iPad
+
+**Mobile Development**
+
+
+**News Acquisition** 
 
 ## Team
 **Social and Mobile:** \#Conservation, \#Coordination, \#Collaboration, \#Awareness, \#COMPUTER SUPPORTED COOPERATIVE WORK (CSCW)

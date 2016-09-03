@@ -30,15 +30,15 @@ Week 12 Interim Sprint | 21st Oct 2016 | <ul><li>Small demonstration of our mobi
 In order to deploy the prototype there are several components that must be acquired. These items can be broken down into 3 main groups; News truck, mobile development and news acquisition. The required items for each section is detailed below.
 
 **News Truck:**
-*Medium or Light Truck
-*Capacitive 55” LCD touch screen or Rear Projection Screen with capacitive surface to allow interactivity. 
-*Human Driver with truck license
-*Cellular data (4G+) with Wi-fi router, enabling free Wifi within a certain range. The connection details are displayed on the truck surface. 
-*Audio speakers, surround sound 5.1 
+* Medium or Light Truck
+* Capacitive 55” LCD touch screen or Rear Projection Screen with capacitive surface to allow interactivity. 
+* Human Driver with truck license
+* Cellular data (4G+) with Wi-fi router, enabling free Wifi within a certain range. The connection details are displayed on the truck surface. 
+* Audio speakers, surround sound 5.1 
 
 However, for the prototype we’ll require the following items:
-*RC Truck
-*iPad
+* RC Truck
+* iPad
 
 **Mobile Development**
 

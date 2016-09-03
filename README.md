@@ -10,6 +10,19 @@ Our project is called New Struck(Tentative), based on the idea of combining food
 
 ## Team
 
+### Individual Roles & Responsibilities
+
+*Name* | *Roles* | *Responsibilities*
+--- | --- | ---
+James Garrett | Team Leader | <ul><li>Organise and conduct meeting, including creating a weekly schedule meeting</li><li>Front-End Development</li><li>Technological Experiment</li><ul>
+Jason Pham | Team Member | <ul><li>Front-End Development</li><li>Back-End Development</li><li>Product Testing</li><ul>
+Yen Ting Phang | Team Member | <ul><li>Visual Design</li><li>Product Design</li><ul>
+Yanuar Wicaksana | Team Member | <ul><li>Back-End Development</li><li>Content Creation</li><li>Technological Experiment</li><ul>
+
+All of the logistic responsibilities will be equally shared to all of the team member. Every person will be responsible for each transport required for transporting them to meeting location. All the equipment needed to develop the product will be the responsibility of each individual while resources needed to conduct experiment and deploying the product will be discussed together later on the development cycle.
+
+### Decision Making
+
 ## Communication
 
 ## Plan
@@ -50,7 +63,7 @@ However, for the prototype we’ll require the following items:
 * News gathering algorithm to obtain articles, either via RSS feeds or directly from sites. Unlikely to be geo specific
 * User generated content with GPS location. In addition, as the application is a free platform, locals can freely upload their news with ease. In order to integrate it into their current advertising structure, a guide would be provided. 
 
-## Team
+## Tags
 **Social and Mobile:** \#Conservation, \#Coordination, \#Collaboration, \#Awareness, \#COMPUTER SUPPORTED COOPERATIVE WORK (CSCW)
 
 **Journalism and News:** \#LocalNews, \#Community

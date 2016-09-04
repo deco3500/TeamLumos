@@ -11,13 +11,29 @@ Our Project is called News Truck. News truck is born from the problem where we t
 As previously stated, our solution is to create a space where we could easily share, promote and endorse local news in populated local areas. We propose a cost-effective technological solution that presents news in an interesting and engaging way; a digitalized news or discussion board fixed to  the side of a large vehicle parked in a public place. Placing the screen on the side of a vehicle would not only allow the space to be set up in any public space with permitted parking, but also allow this space to be mobile, with the vehicle making intermittent stops to set up in numerous high-density areas. When the vehicle stops to set up, it can send out notifications to users either through a dedicated app or another form of mobile-oriented messaging, as well as setup a free public hotspot. The screen on the side of the truck is turned on, accompanying audio plays out of speakers fixed to the vehicle, and an array of different forms of news are displayed on the screen. The content could display anything from trending Twitter and Facebook content, the newest reviews for restaurants and venues, upcoming public events, QR codes for discounts and even public advertisements by nearby venues could display on-screen. Additionally, the truck could provide charging cables plugged into the truck for people looking to charge their mobile devices. Nearby pedestrians are drawn to the truck because of the visual and audio components, and can decide through ratings and polling which content is displayed on-screen, by either deciding what to show or even displaying their own messages.
 
 ### Project Aim
+By making our solution mobile, we aim to make this medium of news conveyance exciting, unpredictable and aim to draw people in through the novelty of the concept. Keeping the venue itinerant allows it to have a wider reach while also continuously attracting new patrons, which helps retain the freshness of the concept.  While the truck will be scheduled to stop at different high-density locations, the plan will not be made available to the public, meaning that its appearance will generate pleasant surprise as it provides a temporary service they cannot otherwise seek. In the early stages of release, pedestrians will mostly be unfamiliar with the solution and ideally will want to query equally curious strangers as to the solution’s purpose and be allied through their inquisitive nature  Over time, the uniqueness of the idea will diminish as repeat customers familiarize themselves with the solution, meaning that we will need to provide reasons for customers to return. This is what the supply of free Wifi and promotional codes in conjunction with news updates ideally provide. The focus on local news will also increase the chances of people seeing news they would enjoy but do not typically seek. Allowing local venues to place quaint advertisements allows the community to express themselves in an unexpected yet effective and immediate way.
 
 ### Target Audience
 The target audience of our solution is intended to be commuters, pedestrians, shoppers and any other such people who walk around public areas. As it is designed to attract people through sight and sound, it poses the risk of distracting drivers and consequently will always be set up to face away from roads, focusing entirely on pedestrians. The screens themselves should show simple infographics on trending social media topics, Youtube livestreams, live news reports and news recaps, as well as upcoming events in the local area, recent restaurant, venue reviews and favoured messages submitted by locals. Consequently, the target audience is quite wide and although not everyone can afford to have a mobile device, not being able to interact with the content shown is a light barrier. Anyone with sight or sound within the vicinity of the public space could be considered part of the target audience.
 
 ### Concept of Use
-*
-
+1. User is an everyday commuter and uses the public busses and trains to travel to and from their full-time job. This morning, the user needs to travel to work. They wake up at 6:00am to leave for their 8am start, leaving at 6:30.
+2. Intending to catch the 6:50am train from Indooroopilly station into the city, the user walks to the Indooroopilly train station and waits for the intercity train to arrive.
+3. Once the train arrives, the user gets on the train, hopping off once the train arrives at Roma street station at 7:10am.
+4. Once off the train, the user departs the station and begins their walk towards the office, with quite a lot of time to spare. They come to a crossing and wait for the pedestrian signal to turn green
+5. While crossing, the user hears the audio of what sounds like a report, before identifying it as coming from a large truck on the other side of the road, facing away from them, along with a gathering of people standing behind the truck with their mobile phones out, intermittently switching their gazes between their own phone screen and the truck.
+6. The user turns to look at the truck face, seeing a tall television screen displaying numerous live feeds of social media data, personal messages and live news feeds. 
+7. The user’s confusion is met by an onlooker, and the two exchange quizzical expressions before the user asks “What is this?”
+8. The onlooker reponds - “I think it’s like a moving news hub - I’ve never seen one before, but they let you post messages that show up on the screen, and you can vote on what you want to see on your phone.”
+9. The user responds “Huh. Ok, cool.”
+10. Seeing as the user has 30 minutes until work starts, and is only 10 minutes walk away, they decide to watch the screen for a while, before noticing one of the segments on the TV showing a web link/app promotion. 
+11. As the user is using their mobile data usage plan, they are hesitant to follow this link but check to see if there are any local free Wifi signals, expecting little.
+12. To their surprise, the news truck seems to be supplying free internet downloads via a hotspot, and connect right away.
+13. The user then follows the link given and has access to an interface via the app/web address and can see that each segment can be upvoted/downvoted, with suggestions appearing on the side after each segment is selected, with the ability to vote for replacing currently displayed content with a few given suggestions.
+14. The user sees that there is one panel where they can input their own text message, and attempts to send one saying “Hi.” 
+15. The user’s message is added to a queue for user messages, and sees that another message promotes discounted drinks for users who buy from the coffee shop behind the stand, encouraging the user to seek it out and buy coffee while they still have the chance.
+16. The user buys the coffee, feeling like they made a worthwhile decision to take advantage of the discount, and heads back towards the news truck to see if their message shows up on the screen.
+17. Now the user has begun to understand the nature of the news truck, they juggle their attention between the varying segments on the TV, each showing different varieties of local news.
 
 ### Key differences to other available offerings 
 The key difference between our solution and other platforms that deliver news is that other mediums like public news radio or televised displays are that these mediums do not allow the spectators to dictate what they see, and do not allow spectators to post their own content. Additionally, while shopping centre screens may convey events for that centre, they won’t necessarily describe upcoming events in the city that the centre resides in, or show live content. The static nature of public display screens means that while their content is often dynamic, it still requires updates, meaning they will never be completely up to date with world events.
@@ -47,21 +63,26 @@ Research:
 There are few aspects need to look in depth in order to facilitate social and promote local news such as:
 
 (i) Interactive Touch Screen Board or Projector
+
 One of the attractiveness of News Truck is presenting local news through a 
 huge screen which allows multiple user to interact with it at once. However,
 team needs to measure the feasibility and understand user’s preference to 
 maximize the product usage. Survey or questionnaire regarding personal interest, frequent use of technologies and mechanism can be done to receive useful feedbacks from the local residence and retrieve possible insights to improve the overall product. 
 
 (ii) Mobile or Web application
+
 News Truck winden and expose local news of a section to another by travelling around. Therefore, a mobile application or web application will be created to assist users to interacts with the product such as leaving a comment for an article, sharing local news or event information and retrieving promotion gifts.
 
 (iii) Incentives
+
 Attractive incentives invite and encourage more participants to interact with the product as News Truck requires users to take initiatives to approach and connect from a limited range. At this stage, team had decided to include and provide local shop coupons and free access of Wi-Fi, more incentives will slowly be added in the future according to users preference.   
 	
 Requirements:
+
 News Truck requires 2 digital interactive board or screen with size of 55’’ and above, 	a few screen mount will be needed to support and fix the screen position on the truck and keep it safe in position when travel from one destination to another. Hence, a few audio speakers will be placed around the truck to ensure the audio able to reach the audience from any direction within the range. 
 	
 Design:
+
 News Truck design will be focus on supporting human-human interaction where users will be familiar with the product interface and able to utilise it with minimal learning curve and technology experience. Team will first determine the functional requirements and proceed to identify the user scenarios and try to understand the expectation of users for each scenarios. Process and information flow of the application will be added before implementing on specific physical platform. The interface of News Truck will mainly consist of a local news feeds board with users comment sections along with upvote and downvote system.   
 
 	

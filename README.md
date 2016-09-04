@@ -2,7 +2,7 @@
 
 Welcome to team Lumos!
 
-Our project is called New Struck(Tentative), based on the idea of combining food truck and digitalized social board, we hope to solve the problem of sharing, encouraging and expanding local news.
+Our project is called News Truck, based on the idea of combining food truck and digitalized social board, we hope to solve the problem of sharing, encouraging and expanding local news.
 
 ## Introduction
 Our Project is called News Truck. News truck is born from the problem where we think that the medium or tools used to share local news has been overtaken by more engaging new tools, and no longer meet the needs of the public. People have always had the tools to disconnect themselves from their surroundings (magazines, books, walkmans), but now more than ever, commuters and pedestrians can deafen their senses and become completely unaware of their surroundings. This lacks the solidarity of noticing a stranger is reading the same paper as you, prompting an impromptu discussion. Reading the contents of someone else’s phone is considered extremely intrusive - there are no perceivable common interests between strangers consuming the news, and news no longer needs to be consumed publicly. We would like to bring back this unification by creating a unique and mobile space where people can consume and discuss news publically.
@@ -38,7 +38,7 @@ The target audience of our solution is intended to be commuters, pedestrians, sh
 ### Key differences to other available offerings 
 The key difference between our solution and other platforms that deliver news is that other mediums like public news radio or televised displays are that these mediums do not allow the spectators to dictate what they see, and do not allow spectators to post their own content. Additionally, while shopping centre screens may convey events for that centre, they won’t necessarily describe upcoming events in the city that the centre resides in, or show live content. The static nature of public display screens means that while their content is often dynamic, it still requires updates, meaning they will never be completely up to date with world events.
 
-## Team
+## Team & Communication
 
 ### Individual Roles & Responsibilities
 
@@ -49,11 +49,56 @@ Jason Pham | Team Member | <ul><li>Front-End Development</li><li>Back-End Develo
 Yen Ting Phang | Team Member | <ul><li>Visual Design</li><li>Product Design</li><ul>
 Yanuar Wicaksana | Team Member | <ul><li>Back-End Development</li><li>Content Creation</li><li>Technological Experiment</li><ul>
 
-All of the logistic responsibilities will be equally shared to all of the team member. Every person will be responsible for each transport required for transporting them to meeting location. All the equipment needed to develop the product will be the responsibility of each individual while resources needed to conduct experiment and deploying the product will be discussed together later on the development cycle.
+All of the logistic responsibilities will be equally shared to all of the team member. Every person will be responsible for each transport required for transporting them to meeting location. All the equipment needed to develop the product will be the responsibility of each individual while resources needed to conduct experiment and deploying the product will be discussed together along the development cycle.
 
 ### Decision Making
+All of the issues, solution or approach will be talked during the team weekly meeting and any conclusion that were made during these session will be considered as the decision that the team has agreed to. During these decision making process, we have agreed to pick on the easiest and realistic solution to respective issues.
 
-## Communication
+If there some issues or problem that need immediate responses, those issues will be brought into the group social media account so it can be discussed over via other communication tools. Voting mechanism should also considered whenever the team couldn’t reach on one conclusion with the time limit provided. All the decision will be final and it will be the responsibility of every team member for the result of those decision.
+
+### Meeting Rules
+Team meeting will be conducted every week in order to discovering issues, brainstorming idea, creating solution and discussing progress regarding News Truck project. Based on agreement and comparison of each team member schedule, we have decided on conduct meeting every Wednesday from 2 - 3 PM. The meeting duration will run for approximately 1 hour, however if it is deemed to be insufficient, time extension will be considered in order to finalise any decision making progress. Additional meeting could also be scheduled via Skype if it was deemed to be necessary.
+
+To create a conducive and efficient environment, there are various meeting standard that we could used as a guidelines. Some of those will include multiple point below:
+* Team Leader will create and coordinate meeting agenda before the weekly meeting conducted.
+* The location of the meeting will be decided by the team leader and he/she should consider the transportation of each team member used.
+* All of the team member have a mandatory of attending the weekly meeting activities
+* If by any case any team member could not attend the meeting, they have to give out prior notice to other team member or team leader 24 hours before the meeting conducted.
+* If any team member is coming late to the meeting, they also should give a notice to the others following their reason/excuse.
+* If by any case weekly meeting cannot be conducted the following week due to valid reason, team leader should announce the cancellation of the team meeting through communication tools or direct communication at least 24 hours beforehand.
+* Any decision making process happened through the meeting activities will refer to decision making section in this document and will be recorded for future references.
+* If team leader are unable to do his/her obligation to conduct/participating the meeting, another team member will took over for those specific week.
+
+### Team Management
+Every team member should respect and listen to other team member opinion or idea that shared during the development process. There will not be any biased perspective towards one of the individual, all of the team member and their idea will be treated equally regardless of their roles to the team. Each of the team member are required to be responsible of their task that they are given to and they have to manage their own schedule in order to fulfill those respective task. In addition, the team leader should check team member condition regularly in order to monitor each member progress through the development process.
+
+If any of the team member fail to fulfill their given task and affecting the team performance in overall, we should consider following points that stated below:
+* Approach the following team member to ask about their reason or excuse of their failing performance.
+* By the agreement of the respective individual, team leader should bring the issues to others team member in order to search for best solution.
+* Based on team discussion, team leader should give out time deadline for the respective team member to finish the task that he/she fail to fulfill.
+* If by any chance the respective team member still failed to fulfill the task given, the following task will be given to other team member to finished and he/she will be given another task to work.
+
+Whereas, if any of team member have a conflicts or problem with other team member and affecting the teamwork and team moral, we should:
+* Discuss the problem/issues with all other team members, with purposes of finding the best solution together.
+* Re-assign works or tasks so they are not intertwined to reduce any issues arise between conflicted team member.
+* Re-assess the team situation to determine if the problem still persists or has been remedied
+* If the situation does not improve, the issue would be brought to the attention of the teaching staff to ask for advice and solution.
+
+### Communication & Contribution
+*No.* | *Tools/Platform* | *Details*
+--- | --- | ---
+1 | Facebook Group | Social Media Communication, The most convenient social media platform that allowed to share announcement, create event reminder, and etc
+2 | Messenger/Messages | Direct Chat Communication, Most approachable choices considering all of the team member regularly uses it.
+3 | Github | Version Control, Most famous version control and most familiar one with team member. SourceTree tools was used to manage the branch flow. 
+4 | Google Drive | File Management, Allow powerful features to easily share file with link or email invitation.
+5 | Google E-mail | Formal Communication, necessary to communicate with teaching staff or any other parties that need to be involved in this project.
+6 | Phone Call | Urgent Communication Tools, To discuss any matters that need immediate response.
+7 | Skype | Teleconference Communication Tools, Widely used for teleconference meeting that enhance the meeting environment.
+
+To create and establish high quality development environment, communication is one of the key factor in order to make this project successful. This can be done by handling weekly meetings regularly so that any discussions can be established. Any communications outside the meetings will be done by the help of communication tools such as Facebook Messenger. Besides texts, most of these applications have file and link sharing features, which will certainly improve team communication.
+
+In order to support the development of this project, our team agreed to store any files regarding to the project inside a git repository provided by the universities, which will be managed by using SourceTree application. For other medias and documents, we will manage it through Google Drive. For the naming conventions of the files, our team agreed that it should be simple and as clear as possible, where there are no numeric iteration when files/systems are improved upon. We decide to use the date,team name, and filename as the naming rules, separated by dash mark(e.g 20160904-TeamLumos-Project_Proposal.docx). As for the base files and programs, these will be updated instead of iterated over without putting any version mark.
+
 
 ## Plan
 

@@ -44,30 +44,24 @@ All of the logistic responsibilities will be equally shared to all of the team m
 ### Project Phases:
 
 Research:
-
 There are few aspects need to look in depth in order to facilitate social and promote local news such as:
 
 (i) Interactive Touch Screen Board or Projector
-
 One of the attractiveness of News Truck is presenting local news through a 
 huge screen which allows multiple user to interact with it at once. However,
 team needs to measure the feasibility and understand user’s preference to 
 maximize the product usage. Survey or questionnaire regarding personal interest, frequent use of technologies and mechanism can be done to receive useful feedbacks from the local residence and retrieve possible insights to improve the overall product. 
 
 (ii) Mobile or Web application
-
 News Truck winden and expose local news of a section to another by travelling around. Therefore, a mobile application or web application will be created to assist users to interacts with the product such as leaving a comment for an article, sharing local news or event information and retrieving promotion gifts.
 
 (iii) Incentives
-
 Attractive incentives invite and encourage more participants to interact with the product as News Truck requires users to take initiatives to approach and connect from a limited range. At this stage, team had decided to include and provide local shop coupons and free access of Wi-Fi, more incentives will slowly be added in the future according to users preference.   
 	
 Requirements:
-
 News Truck requires 2 digital interactive board or screen with size of 55’’ and above, 	a few screen mount will be needed to support and fix the screen position on the truck and keep it safe in position when travel from one destination to another. Hence, a few audio speakers will be placed around the truck to ensure the audio able to reach the audience from any direction within the range. 
 	
 Design:
-
 News Truck design will be focus on supporting human-human interaction where users will be familiar with the product interface and able to utilise it with minimal learning curve and technology experience. Team will first determine the functional requirements and proceed to identify the user scenarios and try to understand the expectation of users for each scenarios. Process and information flow of the application will be added before implementing on specific physical platform. The interface of News Truck will mainly consist of a local news feeds board with users comment sections along with upvote and downvote system.   
 
 	

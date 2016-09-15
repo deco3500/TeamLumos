@@ -14,8 +14,8 @@ Televisions can vary greatly in their required power consumption, and depending 
 
 In terms of the power supply, there are multiple options, but none of them are extremely cheap or viable. A residential circuit’s conductor on average can withstand up to 15 to 20 amps worth of electrons, while a wall socket provides 120 volts, meaning that we can calculate the maximum amount of watts before the circuit breaker is destroyed:
 Total Watts = Total Amps*Total Volts
-                   = 15A*120V
-                   = 1800 watts
+            = 15A*120V
+            = 1800 watts
 
 Consequently in a house setting, NewsTruck could have a setup of 1 large LCDTV, 2 speakers, and an audio mixer, and barely emit a third of the total wattage capacity. This does not represent the environment in which NewsTruck would manage its electricity, but it demonstrates that a basic setup is viable in a stationary area. On the side of a road or in a public area, power sockets and circuits may not be available, and if they are, may not be usable as the owner would need to pay for the energy consumed by NewsTruck on their grid. Solar panels are a viable alternative to this, and could be set up on the roof of the truck and utilized with power inverters and a basic circuit.    Solar panels are not cheap, however many are designed with RV vehicles in mind and a quick look online shows that panels that generate 200W can be bought at an upwards of $200. Installation, protection and maintenance are important to consider and every added component drives up the need for better circuits, more protective components and a longer setup time.
 
@@ -31,7 +31,8 @@ While there are televisions specifically designed to work outdoors, they have a 
 ### Sunlight
 Sunlight exacerbates other issues that arise from internal and external heating, while also presenting many unique threats. Exposure to sunlight can cause the plastic TV panels heat up and melt, as well as raising the screen’s temperature, which can build over time and heat up the backlight, resulting in permanent damage. Moreover, the UV rays emitted from sunlight can damage the LCD panel by causing the liquid to crystallize and permanently form black pixels on the screen. An LCD screen that is exposed to sunlight will degrade so quickly that LED displays are preferred, as they do not suffer the same effects from UV rays, are easy to maintain (as they are an array of bulbs instead of a single large TV), and are considered easier to read from a distance. LED screens would almost be the preferred option for a screen display if they could be viewed up close and far away, but as LED screens are designed to be seen on the sides of buildings, or on billboards, they cannot be viewed at the proximity we intend them to be. 
 
-
+ 
+![Figure 1](figure1.jpg?raw=true "Figure 1") ![Figure 2](figure2.jpg?raw=true "Figure 2")
 
 Figure 1 & 2: Two examples of LED displays outside, which are becoming increasingly prominent due to falling maintenance costs.
 
@@ -40,12 +41,14 @@ http://getemsignsandmarketing.com.au/led-signage/fixed-oudoor-led-displays/ 15 S
 
 UV damage is even more of a problem in Australia since we have very high UV ray exposure compared to the rest of the world, as seen in the graph below. This indicates that the effects of UV damage will be accelerated, making it an even larger problem.
 
+![Figure 3](figure3.jpg?raw=true "Figure 3")
 
 Figure 3: A map of the global UV Index, generated in 2003.
 http://www.livescience.com/46701-andes-highest-uv-index-measured.html 15 September 2016
 
 Luckily there are ways we can minimize the effects of UV and sun damage, such as providing a canvas above the tv for shade, upgrading to a pivoting wall mount (an example seen below) to hold the tv so that it can be angled to receive less sunlight, angling the truck when parking such that the tv has its back to the sunlight, or parking in the shade of a larger building -particularly in areas with high-rise buildings. Another preventative measure that’s often taken in electronics stores is to put the TV behind a pane of glass, which neutralises some of the UV rays from getting through to the tv.
 
+![Figure 4](Figure 4.png?raw=true "Figure 4")
 
 Figure 4: A sketch of a pivoting wall-mount for an LCD screen, providing the user with even more degrees of rotation.
 http://sealtv.com.au/top-10-tips-for-installing-a-tv-outside/ 15 September 2016
@@ -55,6 +58,7 @@ As previously mentioned, internal heating is a crucial factor of an operating LC
 
 While many of the preventative measures for combatting heat have already been addressed above, in extreme heat there are other approaches to keeping the operating temperature consistent, despite being more expensive. Firstly, air-conditioning can be used in an enclosed space close to the television to keep its components cold, however it does require that the TV be contained within an enclosed space, which can be difficult to contain on a moving truck. Another solution is to use an enclosed case (as seen below) which provides a screen as well as a back-panel that can connect to an air-conditioner, however this is at the cost of a pivoting wall-mount, as the case would need to sit flat on a connecting wall to the inside of the truck. Finally, windshields can also be installed inside the cover of an LCD screen behind the backlight, to prevent wind chill from cooling down the components.
 
+![Figure 5](Figure 5.png?raw=true "Figure 5") ![Figure 6](Figure 6.png?raw=true "Figure 6")
 
 Figure 5 & 6: Two example sketches of a TV enclosure mounted to a wall, with connections to an AC system and a protective screen for the TV.
 

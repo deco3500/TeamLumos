@@ -172,4 +172,10 @@ However, for the prototype we’ll require the following items:
 
 **Journalism and News:** \#LocalNews, \#Community
 
+### Research:
+In designing NewsTruck, we've conducted research on the following:
+* Identification of Potential Problems
+* 
+
+This research can be found here: https://github.com/deco3500/TeamLumos/blob/master/Research.md
 

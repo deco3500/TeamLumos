@@ -13,8 +13,12 @@ http://lifehacker.com/5982108/is-burn-in-still-an-issue-on-tvs-and-monitors 15 S
 Televisions can vary greatly in their required power consumption, and depending on the size and type of screen, can require vast amounts of power to maintain. On average, LCD televisions can require between 125 and 260 watts, while plasma screens ranging between 125 and 340 watts, and DLP larger screens requiring 170 watts. When we consider that the setup will also require a set of speakers, an audio and input mixer, and potentially even power inverters to facilitate solar panels planted on the roof of the vehicle, we start to require up to 500 watts or more for the whole setup. This setup also assumes that only one TV is use, and when designing the interface, we need to consider whether it is more advantageous to use multiple smaller screens or just one large one. This decision will be returned to numerous times in discussion, but in terms of power supply, it seems more advantageous to use one larger screen as the wattage does not scale enough for multiple monitors/screens to be just as efficient in energy consumption as one larger screen would be. 
 
 In terms of the power supply, there are multiple options, but none of them are extremely cheap or viable. A residential circuit’s conductor on average can withstand up to 15 to 20 amps worth of electrons, while a wall socket provides 120 volts, meaning that we can calculate the maximum amount of watts before the circuit breaker is destroyed:
+
+
 Total Watts = Total Amps.Total Volts
+            
             = 15A.120V
+            
             = 1800 watts
 
 Consequently in a house setting, NewsTruck could have a setup of 1 large LCDTV, 2 speakers, and an audio mixer, and barely emit a third of the total wattage capacity. This does not represent the environment in which NewsTruck would manage its electricity, but it demonstrates that a basic setup is viable in a stationary area. On the side of a road or in a public area, power sockets and circuits may not be available, and if they are, may not be usable as the owner would need to pay for the energy consumed by NewsTruck on their grid. Solar panels are a viable alternative to this, and could be set up on the roof of the truck and utilized with power inverters and a basic circuit.    Solar panels are not cheap, however many are designed with RV vehicles in mind and a quick look online shows that panels that generate 200W can be bought at an upwards of $200. Installation, protection and maintenance are important to consider and every added component drives up the need for better circuits, more protective components and a longer setup time.
@@ -62,7 +66,7 @@ http://www.amsj.com.au/advertorial/hamilton-sunscreen-sun-protection-workplace-e
 As previously mentioned, internal heating is a crucial factor of an operating LCD television, and the external temperature outside will have a huge impact on managing this, especially since the brightness of an LCD screen can drop at cold enough temperatures. The Australian temperature climate can have a great deal of variance, and while it leans towards extremely hot temperatures, many southern parts of Australia can remain consistently close to the freezing point. Keeping the screen at room temperature (23C degrees celcius) also requires ensuring the TV’s temperature does not get too low, which is important as colder LCD screens can take longer to start up and will be dimmer until heated up. Furthermore, with the changing seasons, Brisbane’s climate alone changes considerably, reaching temperatures as low as 14 degrees during Winter and 42 degrees in the summer, meaning that NewsTruck will need to be outfitted for wide temperature variances from the start. The setup for NewsTruck will need to be able to withstand extreme heat and subzero temperatures. 
 
 
-![Figure 5](Figure 5.png?raw=true "Figure 5")
+![Figure 5](Figure Totally 5.gif?raw=true "Figure 5")
 
 Figure 5: A line graph showing Brisbane's mean temperature rates thorugh years, comparing seasons, from 1949 to 2000.
 http://www.john-daly.com/press/press-03c.htm 15 September 2016

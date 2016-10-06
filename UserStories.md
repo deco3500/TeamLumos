@@ -1,13 +1,11 @@
 # User Stories 
 
-As a <type of user>, I want <some goal> so that <some reason>.
-
 Our audience consist of several users, each can be grouped into epic users. Weâ€™ll call these epic users
 * Passerby
 * Regular  
 * Content Creator 
 
-## Unrefined User Stories
+## User Stories
 * As a passerby, I want to learn more about my community so that I'm updated with current events happening around me
 * As a passerby, I want to try something novel so that I've experienced something new today
 * As a passerby, I want to see that there is an attraction so that I know I can play around with it
@@ -25,4 +23,4 @@ Our audience consist of several users, each can be grouped into epic users. Weâ€
 
 # Use Cases
 
-Tables are difficult to display on Github, therefore a word document is provided. You can download and view the use case in the following file: 
+Tables are difficult to display on Github, therefore a word document is provided. You can download and view the use case in the following file: https://github.com/deco3500/TeamLumos/blob/master/Documents/Use%20Case.docx

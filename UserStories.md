@@ -1,4 +1,4 @@
-# Use Cases + User Stories + UML Diagram
+# User Stories 
 
 As a <type of user>, I want <some goal> so that <some reason>.
 
@@ -19,4 +19,10 @@ Our audience consist of several users, each can be grouped into epic users. Weâ€
 * As a content creator, I want my news to be displayed often so that many can view my business 
 * As a content creator, I want to advertise deals to people so that my business is more exposed
 
+# Use Case Diagram
+
 ![UML Diagram (Use Case)](https://github.com/deco3500/TeamLumos/blob/master/Images/UseCaseDiagram.jpg)
+
+# Use Cases
+
+Tables are difficult to display on Github, therefore a word document is provided. You can download and view the use case in the following file: 

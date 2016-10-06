@@ -176,5 +176,5 @@ However, for the prototype we’ll require the following items:
 
 * This research can be found here: https://github.com/deco3500/TeamLumos/blob/master/Research.md
 * Week 6 Feedback Review can be found here: https://github.com/deco3500/TeamLumos/blob/master/Feedback%20Review.md
-
+* User Stories + Use Cases + Use Case Diagrams can be found here: https://github.com/deco3500/TeamLumos/blob/master/UserStories.md
 

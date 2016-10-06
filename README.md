@@ -174,7 +174,7 @@ However, for the prototype we’ll require the following items:
 
 ### Research:
 
-This research can be found here: https://github.com/deco3500/TeamLumos/blob/master/Research.md
-Week 6 Feedback Review can be found here: https://github.com/deco3500/TeamLumos/blob/master/Feedback%20Review.md
+* This research can be found here: https://github.com/deco3500/TeamLumos/blob/master/Research.md
+* Week 6 Feedback Review can be found here: https://github.com/deco3500/TeamLumos/blob/master/Feedback%20Review.md
 
 

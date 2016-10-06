@@ -19,4 +19,4 @@ Our audience consist of several users, each can be grouped into epic users. Weâ€
 * As a content creator, I want my news to be displayed often so that many can view my business 
 * As a content creator, I want to advertise deals to people so that my business is more exposed
 
-
+![UML Diagram (Use Case)](https://github.com/deco3500/TeamLumos/blob/master/Images/UseCaseDiagram.jpg)

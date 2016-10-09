@@ -177,4 +177,9 @@ However, for the prototype we’ll require the following items:
 * This research can be found here: https://github.com/deco3500/TeamLumos/blob/master/Research.md
 * Week 6 Feedback Review can be found here: https://github.com/deco3500/TeamLumos/blob/master/Feedback%20Review.md
 * User Stories + Use Cases + Use Case Diagrams can be found here: https://github.com/deco3500/TeamLumos/blob/master/UserStories.md
-
+* A logistics summary of implementing the project, including costs, required power, size, and other info can be found here:  https://github.com/deco3500/TeamLumos/Documents/Logistics%Summary%Excel.xlsx 
+* A rough 3D model of the project drawn to a reduced scale: 
+	**  https://github.com/deco3500/TeamLumos/Images/Basic%Truck%Sketch%v1%1.png 
+	**  https://github.com/deco3500/TeamLumos/Images/Basic%Truck%Sketch%v1%2.png
+	**  https://github.com/deco3500/TeamLumos/Images/Basic%Truck%Sketch%v1%3.png 
+	**  https://github.com/deco3500/TeamLumos/Images/Basic%Truck%Sketch%v1%4.png 

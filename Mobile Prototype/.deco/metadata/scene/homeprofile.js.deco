@@ -1,0 +1,68 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 16,
+					"ch": 26
+				},
+				"to": {
+					"line": 16,
+					"ch": 37
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Title",
+			"group": "REACT NATIVE NAVBAR"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 16,
+					"ch": 50
+				},
+				"to": {
+					"line": 16,
+					"ch": 57
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Title Color",
+			"group": "REACT NATIVE NAVBAR"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 19,
+					"ch": 36
+				},
+				"to": {
+					"line": 19,
+					"ch": 45
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Background Color",
+			"group": "REACT NATIVE NAVBAR"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 20,
+					"ch": 34
+				},
+				"to": {
+					"line": 20,
+					"ch": 43
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Status Bar Color",
+			"group": "REACT NATIVE NAVBAR"
+		}
+	]
+}

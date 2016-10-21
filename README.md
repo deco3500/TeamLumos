@@ -179,3 +179,16 @@ However, for the prototype we’ll require the following items:
 * User Stories + Use Cases + Use Case Diagrams can be found here: https://github.com/deco3500/TeamLumos/blob/master/UserStories.md
 * A logistics summary of implementing the project, including costs, required power, size, and other info can be found here:  https://github.com/deco3500/TeamLumos/blob/master/Documents/Logistics_Summary_Excel.xlsx 
 * A rough 3D model of the project drawn to a reduced scale:   https://github.com/deco3500/TeamLumos/blob/master/3D_Sketch_Designs.md 
+### Prototypes:
+
+A draft prototype has been implemented:
+
+![Figure 1](Images/14642441_10210316740505351_4522301097624864442_n.jpg?raw=true "7 October 2016")
+![Figure 2](Images/14670665_10210316740105341_7082256757575715631_n.jpg?raw=true "7 October 2016")
+![Figure 3](Images/14670855_10210316741145367_3651338110678207864_n.jpg?raw=true "7 October 2016")
+![Figure 4](Images/14680540_10210316741345372_1850169127001035476_n.jpg?raw=true "7 October 2016")
+![Figure 5](Images/14702472_10210316740225344_150596912984013944_n.jpg?raw=true "7 October 2016")
+![Figure 6](Images/14708373_10210316740665355_3486734363738559688_n.jpg?raw=true "7 October 2016")
+![Figure 7](Images/14819800_672661556227351_1603178817625522176_n.mp4?raw=true "7 October 2016")
+
+

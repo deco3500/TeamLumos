@@ -1,30 +1,45 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component } from 'react';
-import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View
-} from 'react-native';
+import { Text, Navigator, StyleSheet, Image, AppRegistry, View} from 'react-native';
 
-class Project extends Component {
+import Root from './scene/root';
+import Login from './scene/login';
+import Register from './scene/register';
+import HomeProfile from './scene/homeprofile';
+import News from './scene/news';
+import Scan from './scene/scan';
+
+class NavController extends Component {
+  
+  renderScene(route, navigator) {
+    if (route.name == 'root') {
+      return <Root navigator={navigator} />
+    }
+    if (route.name == 'login') {
+      return <Login navigator={navigator} />
+    }
+    if (route.name == 'register') {
+      return <Register navigator={navigator} />
+    }
+    if (route.name == 'homeprofile') {
+      return <HomeProfile navigator={navigator} />
+    }
+    if (route.name == 'news') {
+      return <News navigator={navigator} />
+    }
+    if (route.name == 'scan') {
+      return <Scan navigator={navigator} />
+    }
+  }
+  
   render() {
-    return (
+    return(
       <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.android.js
-        </Text>
-        <Text style={styles.instructions}>
-          Shake or press menu button for dev menu
-        </Text>
+        <Navigator
+          initialRoute={{name: 'root'}}
+          renderScene={this.renderScene.bind(this)}
+          configureScene={(route, routeStack) =>
+            Navigator.SceneConfigs.FadeAndroid}
+        />
       </View>
     );
   }
@@ -33,20 +48,8 @@ class Project extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
+    backgroundColor: '#F1F0F1',
+  }
+})
 
-AppRegistry.registerComponent('Project', () => Project);
+AppRegistry.registerComponent('Project', () => NavController);

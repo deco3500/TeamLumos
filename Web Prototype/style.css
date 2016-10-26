@@ -74,8 +74,83 @@ body{
 }
 
 #image {
-	width: 300px;
-	height: 300px;
+	width: 100%;
+	height: 100%;
 }
+
+.grid {
+  background: #EEE;
+
+}
+
+/* clearfix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 20%;
+}
+
+.img-wrapper{
+	position: relative;
+}
+
+.textover{
+	position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+    /*border: 1px solid #FFF;*/
+    width: 100%;
+    color: #ffffff;
+    margin: 5px;
+}
+
+.paragraph{
+	position: absolute;
+    left: 0;
+    top: 150px;
+    padding: 10px;
+    /*border: 1px solid #FFF;*/
+    width: 100%;
+    color: #ffffff;
+    margin: 5px;
+}
+
+.grid-item {
+  height: 120px;
+  float: left;
+  background: #ffffff;
+  border: 2px solid #333;
+  border-color: hsla(0, 0%, 0%, 0.5);
+  border-radius: 5px;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+}
+
+#dreamdiv{
+    display: flex; 
+    justify-content: center; 
+    flex-direction: column; 
+    align-items: center;
+}
+
+.grid-item--width2 { width:  40%; }
+.grid-item--width3 { width:  60%;}
+.grid-item--width4{ width:  80%; }
+.grid-item--width5 {width: 100%;}
+
+.grid-item--height2 { height: 200px; }
+.grid-item--height3 { height: 400px; }
+.grid-item--height4 { height: 600px; }
 
 

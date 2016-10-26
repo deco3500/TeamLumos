@@ -21,6 +21,7 @@
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+    <script src="masonry.pkgd.min.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -41,7 +42,7 @@
       <br><br>
 
       <!-- Jumbotron -->
-      <div class="jumbotron">
+      <!-- <div class="jumbotron">
         <div class="row">
           <div class="col-md-4">
             <img src="../bike.jpg" id="image">
@@ -51,28 +52,13 @@
             <p class="lead">Permanent separated bike lanes will be built along one of the most dangerous routes in Brisbane and now Queensland's peak cycling body has set its sights on the city's CBD....</p>
           </div>
         </div>
-      </div>
+      </div> -->
 
-      <div class = "commentsection">
-        <div class="row">
-          <div id = "firstcomment" class="col-md-3 col-md-offset-1">
-            <p class = "comment">"A comment"</p>
-            <p class = "commentauthor">- Adam -</p>
-          </div>
-          <div class="col-md-3 col-md-offset-1">
-            <p class = "comment">"Comment"</p>
-            <p  class = "commentauthor">- Mary -</p>
-         </div>
-          <div class="col-md-3 col-md-offset-1">
-            <p class = "comment">"Comment"</p>
-            <p  class = "commentauthor">- Alex -</p>
-          </div>
-        </div>
-      </div>
+      
 
       <!-- Example row of columns -->
       <div class = "topicsection">
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-3">
             <h2>Safari bug warning!</h2>
             <p class="text-danger">As of v9.1.2, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>
@@ -94,17 +80,92 @@
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
             <p><a class="btn btn-primary" href="#" role="button">Read More &raquo;</a></p>
           </div>
-        </div>
+        </div> -->
 
-      <!-- Site footer -->
-      <footer class="footer">
+        <div class="grid">
+          <div class="grid-sizer"></div>
+          <div class="grid-item grid-item--height3" id="dreamdiv">
+            <h2 style="text-align:center;">Dreamworld Tragedy</h2>
+            <img src="../Images/Dreamworld_logo.png" width="150px" height="150px">
+            <p style="text-align:center;">The son of one of the victims of Dreamworld's ride disaster saw his mother's fatal fall when the Thunder River Rapids ride malfunctioned. </p>
+          </div>
+          <div class="grid-item grid-item--width3 grid-item--height3 img-wrapper">
+              <!-- <div class="row"> -->
+                <!-- <div class="col-md-4"> -->
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" id="image">
+                <!-- </div> -->
+                <!-- <div class="col-md-8"> -->
+                <h1 class="textover">Woolloongabba Bikeway to remedy bike black spots</h1>
+                  <p class="lead paragraph">Permanent separated bike lanes will be built along one of the most dangerous routes in Brisbane and now Queensland's peak cycling body has set its sights on the city's CBD....</p>
+              <!-- </div> -->
+            <!-- </div> -->
+          </div>
+          <div class="grid-item grid-item--height3" id="dreamdiv">
+            <h2 style="text-align:center;">PM Nightmare</h2>
+            <img src="../Images/australiagov.jpg" width="150px" height="150px">
+            <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
+          </div>
+          <div class="grid-item grid-item--height3 grid-item--width2 img-wrapper" id="dreamdiv">
+            <img src="../Images/milk.jpg" id="image">
+            <h1 class="textover">Australia 'could soon be importing milk' due to $1 a litre war</h1>
+            <p class="lead paragraph">Dairy farmers have warned Australia could soon be importing milk from New Zealand and other countries if the crisis enveloping the dairy industry is not addressed. </p>
+          </div>
+          <div class="grid-item grid-item--width3 grid-item--height3 img-wrapper">
+            <img src="../Images/film.jpg" id="image">
+            <h1 class="textover">Brisbane Asia Pacific Film Festival program announced</h1>
+            <p class="lead paragraph">An Australian serial-killer thriller slated to be the next Wolf Creek will be one of 82 films showcased during the Brisbane Asia Pacific Film Festival next month.</p>
+          </div>
+          <div></div>
+          <div class = "commentsection">
+            <div class="row">
+              <div id = "firstcomment" class="col-md-3 col-md-offset-1">
+                <p class = "comment">"A comment"</p>
+                <p class = "commentauthor">- Adam -</p>
+              </div>
+              <div class="col-md-3 col-md-offset-1">
+                <p class = "comment">"Comment"</p>
+                <p  class = "commentauthor">- Mary -</p>
+             </div>
+              <div class="col-md-3 col-md-offset-1">
+                <p class = "comment">"Comment"</p>
+                <p  class = "commentauthor">- Alex -</p>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="grid-item grid-item--height2"></div>
+          <div class="grid-item grid-item--height2"></div> -->
+          <!-- <div class="grid-item"></div>
+          <div class="grid-item grid-item--width2 grid-item--height2"></div>
+          <div class="grid-item grid-item--width2"></div> -->
+          <!-- <div class="grid-item"></div>
+          <div class="grid-item grid-item--height2"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item grid-item--height3"></div>
+          <div class="grid-item grid-item--height2"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item grid-item--height2"></div>
+        </div> -->
+
+    </div> <!-- /container -->
+    <!-- Site footer -->
+    <footer class="footer">
         <p>&copy; 2016 Team Lumos</p>
       </footer>
 
-    </div> <!-- /container -->
-
-
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript">
+      var $grid = $('.grid').masonry({
+        itemSelector: '.grid-item',
+        columnWidth: '.grid-sizer',
+        percentPosition: true
+      });
+
+      $grid.imagesLoaded().progress( function() {
+      $grid.masonry();
+});
+    </script>
   </body>
 </html>

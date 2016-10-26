@@ -22,6 +22,7 @@
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
     <script src="masonry.pkgd.min.js"></script>
+    <script src="bootstrap/js/bootstrap.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -30,7 +31,7 @@
     <![endif]-->
   </head>
 
-  <body>
+  <body class="container">
 
       <!-- <img src="../../Materials/newstrucklogo.png" width="100px" height="100px"> -->
       <br>
@@ -58,37 +59,17 @@
 
       <!-- Example row of columns -->
       <div class = "topicsection">
-        <!-- <div class="row">
-          <div class="col-lg-3">
-            <h2>Safari bug warning!</h2>
-            <p class="text-danger">As of v9.1.2, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-primary" href="#" role="button">Read More &raquo;</a></p>
-          </div>
-          <div class="col-lg-3">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-primary" href="#" role="button">Read More &raquo;</a></p>
-         </div>
-          <div class="col-lg-3">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-            <p><a class="btn btn-primary" href="#" role="button">Read More &raquo;</a></p>
-          </div>
-          <div class="col-lg-3">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-            <p><a class="btn btn-primary" href="#" role="button">Read More &raquo;</a></p>
-          </div>
-        </div> -->
 
         <div class="grid">
           <div class="grid-sizer"></div>
-          <div class="grid-item grid-item--height3" id="dreamdiv">
-            <h2 style="text-align:center;">Dreamworld Tragedy</h2>
-            <img src="../Images/Dreamworld_logo.png" width="150px" height="150px">
-            <p style="text-align:center;">The son of one of the victims of Dreamworld's ride disaster saw his mother's fatal fall when the Thunder River Rapids ride malfunctioned. </p>
+<!--
+          <div class="grid-item grid-item--height3 img-wrapper">
+            
+            <img src="../Images/Dreamworld-title.jpg" id="image">
+            <h1 class="textover">Woolloongabba Bikeway to remedy bike black spots</h1>
+            <p class="lead paragraph">The son of one of the victims of Dreamworld's ride disaster saw his mother's fatal fall when the Thunder River Rapids ride malfunctioned. </p>
           </div>
+-->
           <div class="grid-item grid-item--width3 grid-item--height3 img-wrapper">
               <!-- <div class="row"> -->
                 <!-- <div class="col-md-4"> -->
@@ -100,10 +81,34 @@
               <!-- </div> -->
             <!-- </div> -->
           </div>
-          <div class="grid-item grid-item--height3" id="dreamdiv">
-            <h2 style="text-align:center;">PM Nightmare</h2>
+          <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
+            <h4 style="text-align:center;" id="titletext">Comment</h4>
+<!--            <p class = "commentauthor">- Adam -</p>-->
+<!--            <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>-->
+          </div>
+        <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
+            <h4 style="text-align:center;">I'm so excited for the film festival</h4>
+            <p class = "commentauthor">- Jason -</p>
+<!--   
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
+-->
+          </div>
+            <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
+            <h4 style="text-align:center;">Its so unfair to the dairy farmer if we keep the price low</h4>
+            <p class = "commentauthor">- Martha -</p>
+<!--
+            <img src="../Images/australiagov.jpg" width="150px" height="150px">
+            <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
+-->
+          </div>
+            <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
+            <h4 style="text-align:center;">No more bike accident cause of the new bikeway</h4>
+            <p class = "commentauthor">- John -</p>
+<!--
+            <img src="../Images/australiagov.jpg" width="150px" height="150px">
+            <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
+-->
           </div>
           <div class="grid-item grid-item--height3 grid-item--width2 img-wrapper" id="dreamdiv">
             <img src="../Images/milk.jpg" id="image">
@@ -115,7 +120,8 @@
             <h1 class="textover">Brisbane Asia Pacific Film Festival program announced</h1>
             <p class="lead paragraph">An Australian serial-killer thriller slated to be the next Wolf Creek will be one of 82 films showcased during the Brisbane Asia Pacific Film Festival next month.</p>
           </div>
-          <div></div>
+<!--          <div></div>-->
+<!--
           <div class = "commentsection">
             <div class="row">
               <div id = "firstcomment" class="col-md-3 col-md-offset-1">
@@ -132,6 +138,7 @@
               </div>
             </div>
           </div>
+-->
           <!-- <div class="grid-item grid-item--height2"></div>
           <div class="grid-item grid-item--height2"></div> -->
           <!-- <div class="grid-item"></div>
@@ -149,6 +156,7 @@
         </div> -->
 
     </div> <!-- /container -->
+      </div>
     <!-- Site footer -->
     <footer class="footer">
         <p>&copy; 2016 Team Lumos</p>

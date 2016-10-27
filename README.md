@@ -2,6 +2,24 @@
 
 Welcome to team Lumos!
 
+## WK13 CORE PROMOTIONAL MATERIAL
+
+<strong>Mobile Application Design Prototype:</strong> https://marvelapp.com/j4jhe1/screen/16215929</br>
+- Our MaravelApp design. Shows the expected flow and process of our application
+
+<strong>Truck Billboard Webpage:</strong> http://54.187.85.6/</br>
+- The Webpage is built off AngularJS, and it actively updates the content based on the GET request from the server. Periodically displaying new data (Such as comments and news). At the moment our conceptual implementation shows comments. 
+
+<strong>Promotional Video:</strong> </br>
+
+<strong>React Mobile Application:</strong> https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
+- React native is a framework that has been used to implement the application. A URL is provided to the location of the source code. The react native mobile application follows the same design scheme as our design prototype shown in Marvelapp, however is able to communicate to the server to display fresh comments. This is an initial implementation that shows the potential process of implementing the application</br>
+
+<strong>Laravel Restful PHP Server:</strong> http://54.187.85.6/gitrepodeco3801/public/
+- Laravel is a framework that has been used to implement the server. Hosted on Amazon EC2 services, it shows the basic process of uploading a comment and displaying it on our main content. Such endpoint includes the following
+	- GET: http://54.187.85.6/gitrepodeco3801/public/comments
+	- POST: http://54.187.85.6/gitrepodeco3801/public/addcomment [Form Data: "comment"]
+
 ## Introduction
 Our Project is called News Truck. News truck is born from the problem where we think that the medium or tools used to share local news has been overtaken by more engaging new tools, and no longer meet the needs of the public. People have always had the tools to disconnect themselves from their surroundings (magazines, books, walkmans), but now more than ever, commuters and pedestrians can deafen their senses and become completely unaware of their surroundings. This lacks the solidarity of noticing a stranger is reading the same paper as you, prompting an impromptu discussion. Reading the contents of someone else’s phone is considered extremely intrusive - there are no perceivable common interests between strangers consuming the news, and news no longer needs to be consumed publicly. We would like to bring back this unification by creating a unique and mobile space where people can consume and discuss news publically.
 
@@ -189,6 +207,11 @@ A draft prototype has been implemented:
 ![Figure 4](Images/14680540_10210316741345372_1850169127001035476_n.jpg?raw=true "7 October 2016")
 ![Figure 5](Images/14702472_10210316740225344_150596912984013944_n.jpg?raw=true "7 October 2016")
 ![Figure 6](Images/14708373_10210316740665355_3486734363738559688_n.jpg?raw=true "7 October 2016")
-![Figure 7](Images/14819800_672661556227351_1603178817625522176_n.mp4?raw=true "7 October 2016")
+Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_672661556227351_1603178817625522176_n.mp4
+- This video shows our product in real time
 
+### Week 8 Standup Content:
 
+### Week 10 Standup Content:
+
+### Week 12 Standup Content:

@@ -24,6 +24,11 @@
     <script src="masonry.pkgd.min.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
 
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
   </head>
 
   <body class="container">
@@ -36,6 +41,20 @@
         </span>
       </div>
       <br><br>
+
+      <!-- Jumbotron -->
+      <!-- <div class="jumbotron">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="../bike.jpg" id="image">
+          </div>
+          <div class="col-md-8">
+            <h1>Woolloongabba Bikeway to remedy bike black spots</h1>
+            <p class="lead">Permanent separated bike lanes will be built along one of the most dangerous routes in Brisbane and now Queensland's peak cycling body has set its sights on the city's CBD....</p>
+          </div>
+        </div>
+      </div> -->
+
       
 
       <!-- Example row of columns -->
@@ -52,20 +71,23 @@
           </div>
 -->
           <div class="grid-item grid-item--width3 grid-item--height3" id="divimage">
-<!--              <a href="index2.html">-->
+              <a href="index.html">
+              <!-- <div class="row"> -->
+                <!-- <div class="col-md-4"> -->
+<!--                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" id="image">-->
+                <!-- </div> -->
+                <!-- <div class="col-md-8"> -->
                 <h1 class="textover">Woolloongabba Bikeway to remedy bike black spots</h1>
                   <p class="lead paragraph">Permanent separated bike lanes will be built along one of the most dangerous routes in Brisbane and now Queensland's peak cycling body has set its sights on the city's CBD....</p>
                 <div class = "row foot">
                     <div class = "col-lg-3 colfoot">
-                        <a onclick="scan()"><span class = 'glyphicon glyphicon-camera' id="scan">545</span></a>
+                        <span class = 'glyphicon glyphicon-camera'>546</span>
                     </div>
                     <div class = "col-lg-3 colfoot">
-                        <a onclick="up()">
-                        <span class = 'glyphicon glyphicon-arrow-up' id="up">345</span></a>
+                        <span class = 'glyphicon glyphicon-arrow-up'>346</span>
                     </div>
                     <div class = "col-lg-3 colfoot">
-                        <a onclick = "down()">
-                        <span class = 'glyphicon glyphicon-arrow-down' id="down">14</span></a>
+                        <span class = 'glyphicon glyphicon-arrow-down'>14</span>
                     </div>
                     <div class = "col-lg-3">
                         <img class = "qrcode" src="../Images/qrcodebikeway.jpg">
@@ -76,27 +98,29 @@
                   </a>
           </div>
           <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <a onclick="commentshift()"><h4 id="commenttitle">Comment</h4></a>
+            <h4 id="commenttitle">Comment</h4>
+<!--            <p class = "commentauthor">- Adam -</p>-->
+<!--            <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>-->
           </div>
         <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <h4 style="text-align:center;" class="commenttitle" id="comtitle1">I'm so excited for the film festival</h4>
-            <p class = "commentauthor" id="comauthor1">- Jason -</p>
+            <h4 style="text-align:center;" class="commenttitle">Bikers need to be extra caution when they cycling.</h4>
+            <p class = "commentauthor">- James -</p>
 <!--   
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
 -->
           </div>
             <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <h4 style="text-align:center;" class="commenttitle" id="comtitle2">Its so unfair to the dairy farmer if we keep the price low</h4>
-            <p class = "commentauthor" id="comauthor2">- Martha -</p>
+            <h4 style="text-align:center;" class="commenttitle">Its so unfair to the dairy farmer if we keep the price low</h4>
+            <p class = "commentauthor">- Martha -</p>
 <!--
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
 -->
           </div>
             <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <h4 style="text-align:center;" class="commenttitle" id="comtitle3">No more bike accident cause of the new bikeway</h4>
-            <p class = "commentauthor" id="comauthor3">- John -</p>
+            <h4 style="text-align:center;" class="commenttitle">No more bike accident cause of the new bikeway</h4>
+            <p class = "commentauthor">- John -</p>
 <!--
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
@@ -140,6 +164,40 @@
                     </div>
                 </div>
           </div>
+<!--          <div></div>-->
+<!--
+          <div class = "commentsection">
+            <div class="row">
+              <div id = "firstcomment" class="col-md-3 col-md-offset-1">
+                <p class = "comment">"A comment"</p>
+                <p class = "commentauthor">- Adam -</p>
+              </div>
+              <div class="col-md-3 col-md-offset-1">
+                <p class = "comment">"Comment"</p>
+                <p  class = "commentauthor">- Mary -</p>
+             </div>
+              <div class="col-md-3 col-md-offset-1">
+                <p class = "comment">"Comment"</p>
+                <p  class = "commentauthor">- Alex -</p>
+              </div>
+            </div>
+          </div>
+-->
+          <!-- <div class="grid-item grid-item--height2"></div>
+          <div class="grid-item grid-item--height2"></div> -->
+          <!-- <div class="grid-item"></div>
+          <div class="grid-item grid-item--width2 grid-item--height2"></div>
+          <div class="grid-item grid-item--width2"></div> -->
+          <!-- <div class="grid-item"></div>
+          <div class="grid-item grid-item--height2"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item grid-item--height3"></div>
+          <div class="grid-item grid-item--height2"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item"></div>
+          <div class="grid-item grid-item--height2"></div>
+        </div> -->
 
     </div> <!-- /container -->
       </div>
@@ -161,35 +219,5 @@
       $grid.masonry();
 });
     </script>
-      <script type="text/javascript">
-           function scan(){
-                var x = parseInt(document.getElementById("scan").textContent);
-                document.getElementById("scan").innerHTML = x+1;
-           }
-           function up(){
-                var x = parseInt(document.getElementById("up").textContent);
-                document.getElementById("up").innerHTML = x+1;
-           }
-          function down(){
-                var x = parseInt(document.getElementById("down").textContent);
-                document.getElementById("down").innerHTML = x+1;
-          }
-          function commentshift(){
-                var newcomtitle2 = document.getElementById("comtitle1").textContent;
-                var newcomtitle3 = document.getElementById("comtitle2").textContent;
-                var newcomauth2 = document.getElementById("comauthor1").textContent;
-                var newcomauth3 = document.getElementById("comauthor2").textContent;
-                if(!(newcomauth2 == "- James -")){
-                    document.getElementById("comtitle1").innerHTML = "Bikers need to be extra caution when they cycling.";
-                    document.getElementById("comauthor1").innerHTML = "- James -";
-                    document.getElementById("comtitle2").innerHTML = newcomtitle2;
-                    document.getElementById("comauthor2").innerHTML = newcomauth2;
-                    document.getElementById("comtitle3").innerHTML = newcomtitle3;
-                    document.getElementById("comauthor3").innerHTML = newcomauth3;
-                }
-                
-          }
-      </script>
   </body>
 </html>
-      

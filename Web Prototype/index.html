@@ -108,13 +108,15 @@
             <p class="lead paragraph">Dairy farmers have warned Australia could soon be importing milk from New Zealand and other countries if the crisis enveloping the dairy industry is not addressed. </p>
             <div class = "row foot">
                     <div class = "col-lg-3 colfoot">
-                        <span class = 'glyphicon glyphicon-camera'>365</span>
+                        <a onclick="scan2()"><span class = 'glyphicon glyphicon-camera'  id="scan2">365</span></a>
                     </div>
                     <div class = "col-lg-3 colfoot">
-                        <span class = 'glyphicon glyphicon-arrow-up'>175</span>
+                        <a onclick="up2()">
+                            <span class = 'glyphicon glyphicon-arrow-up' id="up2">175</span></a>
                     </div>
                     <div class = "col-lg-3 colfoot">
-                        <span class = 'glyphicon glyphicon-arrow-down'>25</span>
+                        <a onclick = "down2()">
+                            <span class = 'glyphicon glyphicon-arrow-down' id="down2">25</span></a>
                     </div>
                     <div class = "col-lg-3">
                         <img class = "qrcode" src="../Images/qrcodemilk.jpg">
@@ -127,13 +129,15 @@
             <p class="lead paragraph">An Australian serial-killer thriller slated to be the next Wolf Creek will be one of 82 films showcased during the Brisbane Asia Pacific Film Festival next month.</p>
             <div class = "row foot">
                     <div class = "col-lg-3 colfoot">
-                        <span class = 'glyphicon glyphicon-camera'>457</span>
+                        <a onclick="scan3()"><span class = 'glyphicon glyphicon-camera'  id="scan3">457</span></a>
                     </div>
                     <div class = "col-lg-3 colfoot">
-                        <span class = 'glyphicon glyphicon-arrow-up'>201</span>
+                        <a onclick="up3()">
+                            <span class = 'glyphicon glyphicon-arrow-up' id="up3">201</span></a>
                     </div>
                     <div class = "col-lg-3 colfoot">
-                        <span class = 'glyphicon glyphicon-arrow-down'>34</span>
+                        <a onclick = "down3()">
+                            <span class = 'glyphicon glyphicon-arrow-down' id="down3">34</span></a>
                     </div>
                     <div class = "col-lg-3">
                         <img class = "qrcode" src="../Images/qrcodefilm.jpg">
@@ -143,6 +147,7 @@
 
     </div> <!-- /container -->
       </div>
+    
     <!-- Site footer -->
     <footer class="footer">
         <p>&copy; 2016 Team Lumos</p>
@@ -166,13 +171,36 @@
                 var x = parseInt(document.getElementById("scan").textContent);
                 document.getElementById("scan").innerHTML = x+1;
            }
-           function up(){
+          function scan2(){
+                var x = parseInt(document.getElementById("scan2").textContent);
+                document.getElementById("scan2").innerHTML = x+1;
+           }
+          function scan3(){
+                var x = parseInt(document.getElementById("scan3").textContent);
+                document.getElementById("scan3").innerHTML = x+1;
+           }
+          function up(){
                 var x = parseInt(document.getElementById("up").textContent);
                 document.getElementById("up").innerHTML = x+1;
+           }
+          function up2(){
+                var x = parseInt(document.getElementById("up2").textContent);
+                document.getElementById("up2").innerHTML = x+1;
+           }
+          function up3(){
+                var x = parseInt(document.getElementById("up3").textContent);
+                document.getElementById("up3").innerHTML = x+1;
            }
           function down(){
                 var x = parseInt(document.getElementById("down").textContent);
                 document.getElementById("down").innerHTML = x+1;
+          }
+          function down2(){
+                var x = parseInt(document.getElementById("down2").textContent);
+                document.getElementById("down2").innerHTML = x+1;
+          }function down3(){
+                var x = parseInt(document.getElementById("down3").textContent);
+                document.getElementById("down3").innerHTML = x+1;
           }
           function commentshift(){
                 var newcomtitle2 = document.getElementById("comtitle1").textContent;

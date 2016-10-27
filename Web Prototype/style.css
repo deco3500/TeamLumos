@@ -20,7 +20,7 @@ body{
 	padding-left: 50px;
 	padding-right: 50px;
 }
-
+    
 #titlesection{
 	width: 100%;
 	height: 30px;
@@ -29,7 +29,7 @@ body{
 }
 
 #titletext{
-	font-size: 40px;
+	font-size: 30pt;
 	background-color: #f1f1f1;
 	padding: 0 10px;
 	color: #f55f51;
@@ -44,17 +44,9 @@ body{
 	margin-left: 60px;
 }
 
-.comment{
-	font-size: 16pt;
-}
-
-.commentsection{
-	padding-bottom: 30px;
-}
-
 .commentauthor{
 	text-align: right;
-	font-size: 10pt;
+	font-size: 14pt;
 }
 
 .btn-primary{
@@ -102,7 +94,7 @@ body{
 }
 
 .textover{
-	position: absolute;
+/*	position: absolute;*/
     left: 0;
     top: 0;
     padding: 10px;
@@ -113,7 +105,7 @@ body{
 }
 
 .paragraph{
-	position: absolute;
+/*	position: absolute;*/
     left: 0;
     top: 150px;
     padding: 10px;
@@ -138,10 +130,28 @@ body{
 }
 
 #dreamdiv{
-    display: flex; 
+/*    display: flex; */
     justify-content: center; 
     flex-direction: column; 
     align-items: center;
+}
+
+#divimage{
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+#divimage2{
+    background-image: url("../Images/milk.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+#divimage3{
+    background-image: url("../Images/film.jpg");
+    background-size: cover;
+    position: relative;
 }
 
 .grid-item--width2 { width:  40%; }
@@ -154,4 +164,87 @@ body{
 .grid-item--height3 { height: 400px; }
 .grid-item--height4 { height: 600px; }
 
+.qrcode{
+    text-align: right;
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-right: 20px;
+}
+
+.foot{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom : 20px;
+    text-align: center;
+}
+
+span.glyphicon{
+    font-size: 20pt;
+    color: #ffffff;
+}
+
+.colfoot{
+    text-align: center;
+}
+
+#commenttitle{
+    text-align:center;
+    font-size: 28pt;
+	padding: 0 10px;
+	color: #f55f51;
+    vertical-align: middle;
+}
+
+@media all and (min-width: 1001px) {
+  .textover, #commenttitle {
+    font-size: 28pt;
+  }
+    .paragraph, span.glyphicon {
+        font-size: 18pt;
+    }
+    
+    .commentauthor {
+        font-size: 14pt;
+    }
+    .qrcode{
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+@media all and (max-width: 1000px) and (min-width: 700px) {
+  .textover, #commenttitle {
+    font-size: 18pt;
+  }
+    .paragraph, span.glyphicon {
+        font-size: 14pt;
+    }
+    
+    .commentauthor {
+        font-size: 10pt;
+    }
+    
+    .qrcode{
+        width: 30px;
+        height: 30px;
+    }
+}
+@media all and (max-width: 699px) and (min-width: 320px) {
+  .textover, #commenttitle {
+    font-size: 14pt;
+  }
+    .paragraph, span.glyphicon {
+        font-size: 10pt;
+    }
+    
+    .commentauthor {
+        font-size: 8pt;
+    }
+    .qrcode{
+        width: 15px;
+        height: 15px;
+    }
+}
 

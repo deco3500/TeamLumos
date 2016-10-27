@@ -2,20 +2,20 @@
 
 Welcome to team Lumos!
 
-### CORE PROMOTIONAL MATERIAL
+## CORE PROMOTIONAL MATERIAL
 
-Mobile Application Design Prototype: https://marvelapp.com/j4jhe1/screen/16215929</br>
+<strong>Mobile Application Design Prototype:</strong> https://marvelapp.com/j4jhe1/screen/16215929</br>
 - Our MaravelApp design. Shows the expected flow and process of our application
 
-Truck Billboard Webpage: http://54.187.85.6/</br>
+<strong>Truck Billboard Webpage:</strong> http://54.187.85.6/</br>
 - The Webpage is built off AngularJS, and it actively updates the content based on the GET request from the server. Periodically displaying new data (Such as comments and news). At the moment our conceptual implementation shows comments. 
 
-Promotional Video: </br>
+<strong>Promotional Video:</strong> </br>
 
-React Mobile Application: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
+<strong>React Mobile Application:</strong> https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
 - React native is a framework that has been used to implement the application. A URL is provided to the location of the source code. The react native mobile application follows the same design scheme as our design prototype shown in Marvelapp, however is able to communicate to the server to display fresh comments. This is an initial implementation that shows the potential process of implementing the application</br>
 
-Laravel Restful PHP Server: http://54.187.85.6/gitrepodeco3801/public/
+<strong>Laravel Restful PHP Server:</strong> http://54.187.85.6/gitrepodeco3801/public/
 - Laravel is a framework that has been used to implement the server. Hosted on Amazon EC2 services, it shows the basic process of uploading a comment and displaying it on our main content. Such endpoint includes the following
 	- GET: http://54.187.85.6/gitrepodeco3801/public/comments
 	- POST: http://54.187.85.6/gitrepodeco3801/public/addcomment [Form Data: "comment"]

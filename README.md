@@ -2,7 +2,7 @@
 
 Welcome to team Lumos!
 
-## CORE PROMOTIONAL MATERIAL
+## WK13 CORE PROMOTIONAL MATERIAL
 
 <strong>Mobile Application Design Prototype:</strong> https://marvelapp.com/j4jhe1/screen/16215929</br>
 - Our MaravelApp design. Shows the expected flow and process of our application
@@ -207,6 +207,11 @@ A draft prototype has been implemented:
 ![Figure 4](Images/14680540_10210316741345372_1850169127001035476_n.jpg?raw=true "7 October 2016")
 ![Figure 5](Images/14702472_10210316740225344_150596912984013944_n.jpg?raw=true "7 October 2016")
 ![Figure 6](Images/14708373_10210316740665355_3486734363738559688_n.jpg?raw=true "7 October 2016")
-![Figure 7](Images/14819800_672661556227351_1603178817625522176_n.mp4?raw=true "7 October 2016")
+Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_672661556227351_1603178817625522176_n.mp4
+- This video shows our product in real time
 
+### Week 8 Standup Content:
 
+### Week 10 Standup Content:
+
+### Week 12 Standup Content:

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="prototype">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,10 +23,15 @@
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
     <script src="masonry.pkgd.min.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.20/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.3.0/ui-bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap-tpls.min.js"></script>
+
 
   </head>
 
-  <body class="container">
+  <body class="container" ng-controller="controller" >
+
 
       <!-- <img src="../../Materials/newstrucklogo.png" width="100px" height="100px"> -->
       <br>
@@ -79,24 +84,24 @@
             <a onclick="commentshift()"><h4 id="commenttitle">Comment</h4></a>
           </div>
         <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <h4 style="text-align:center;" class="commenttitle" id="comtitle1">I'm so excited for the film festival</h4>
-            <p class = "commentauthor" id="comauthor1">- Jason -</p>
+            <h4 style="text-align:center;" class="commenttitle">{{comment3}}</h4>
+            <p class = "commentauthor">- {{commenter3}} -</p>
 <!--   
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
 -->
           </div>
             <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <h4 style="text-align:center;" class="commenttitle" id="comtitle2">Its so unfair to the dairy farmer if we keep the price low</h4>
-            <p class = "commentauthor" id="comauthor2">- Martha -</p>
+            <h4 style="text-align:center;" class="commenttitle">{{comment2}}</h4>
+            <p class = "commentauthor">- {{commenter2}}-</p>
 <!--
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
 -->
           </div>
             <div class="grid-item grid-item--height1 grid-item--width2" id="dreamdiv">
-            <h4 style="text-align:center;" class="commenttitle" id="comtitle3">No more bike accident cause of the new bikeway</h4>
-            <p class = "commentauthor" id="comauthor3">- John -</p>
+            <h4 style="text-align:center;" class="commenttitle">{{comment1}}</h4>
+            <p class = "commentauthor">- {{commenter1}}-</p>
 <!--
             <img src="../Images/australiagov.jpg" width="150px" height="150px">
             <p style="text-align:center;">Two parliamentarian staff were taken to hospital after ceiling panels collapsed on them inside Brisbane's Commonwealth offices, where Prime Minister Malcolm Turnbull was holding a federal cabinet meeting on Tuesday. </p>
@@ -218,6 +223,48 @@
                 
           }
       </script>
+
+      <script>
+          var proto = angular.module('prototype',['ui.bootstrap']);
+
+        
+
+            proto.controller('controller',['$scope','$http',function($scope,$http){
+
+                var promiseGet = $http.get('http://54.187.85.6/gitrepodeco3801/public/comments');
+
+                promiseGet.then(function(payload){
+                    var data = payload.data.data;
+                    var index = payload.data.data.length;
+                  
+                  var userIndex = 1;
+                  var arrayIndex = index-1;
+
+                  for(var i=0;i<3;i++){
+                    $scope['comment'+userIndex] = data[arrayIndex].comment;
+                    $scope['commenter'+userIndex] = data[arrayIndex].id;
+                    userIndex++;
+                    arrayIndex--;
+                  }
+
+                    
+                });
+
+            }]);
+
+                  angular.element(function() {
+                    angular.bootstrap(document, ['prototype']);
+            });
+
+        
+    </script>
+
+    <script type="text/javascript">
+      setTimeout(function(){
+        location = 'index.html'
+      },15000)
+    </script>
+
   </body>
 </html>
       

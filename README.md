@@ -10,7 +10,7 @@ Welcome to team Lumos!
 <strong>Truck Billboard Webpage:</strong> http://54.187.85.6/</br>
 - The Webpage is built off AngularJS, and it actively updates the content based on the GET request from the server. Periodically displaying new data (Such as comments and news). At the moment our conceptual implementation shows comments. 
 
-<strong>Promotional Video:</strong> </br>
+<strong>Promotional Video: https://youtu.be/dOTQqf7tYsQ</strong> </br>
 
 <strong>React Mobile Application:</strong> https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
 - React native is a framework that has been used to implement the application. A URL is provided to the location of the source code. The react native mobile application follows the same design scheme as our design prototype shown in Marvelapp, however is able to communicate to the server to display fresh comments. This is an initial implementation that shows the potential process of implementing the application</br>

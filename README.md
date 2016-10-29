@@ -209,9 +209,3 @@ A draft prototype has been implemented:
 ![Figure 6](Images/14708373_10210316740665355_3486734363738559688_n.jpg?raw=true "7 October 2016")
 Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_672661556227351_1603178817625522176_n.mp4
 - This video shows our product in real time
-
-### Week 8 Standup Content:
-
-### Week 10 Standup Content:
-
-### Week 12 Standup Content:

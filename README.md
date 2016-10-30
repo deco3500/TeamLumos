@@ -10,6 +10,8 @@ Welcome to team Lumos!
 <strong>Truck Billboard Webpage:</strong> http://54.187.85.6/</br>
 - The Webpage is built off AngularJS, and it actively updates the content based on the GET request from the server. Periodically displaying new data (Such as comments and news). At the moment our conceptual implementation shows comments. 
 
+Protoype Installation and Running Guide detailed below.
+
 <strong>Promotional Video: https://youtu.be/dOTQqf7tYsQ</strong> </br>
 
 <strong>React Mobile Application:</strong> https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
@@ -193,6 +195,10 @@ However, for the prototype we’ll require the following items:
 
 **Journalism and News:** \#LocalNews, \#Community
 
+# Summary
+
+
+
 # Process
 
 ## Week 8 - Work Summary:
@@ -269,7 +275,7 @@ Demo: http://54.187.85.6
 <strong>Web Application:</strong><br>
 1. Run on the above demo URL to access them through web browser.
 
-* How to Run the prototype:
+<strong> How to Run the prototype:</strong>
 1. Run the mobile application and open the web application separately.
 2. Login through the mobile application to give access to the application.(Dummy Features)
 3. On the home page, click on the scan button
@@ -278,8 +284,7 @@ Demo: http://54.187.85.6
 6. User then can upvote and downvote the articles.(Unimplemented, in the prototype it showed by the click of the icon and the number of the vote will incremented)
 7. User then can comment from the mobile application through provided commnet box. The comment will automatically send to the web application and then will be displayed in respective column
 
-
-A draft prototype has been implemented:
+<strong>Prototype Draft:</strong>
 
 ![Figure 1](Images/14642441_10210316740505351_4522301097624864442_n.jpg?raw=true "7 October 2016")
 ![Figure 2](Images/14670665_10210316740105341_7082256757575715631_n.jpg?raw=true "7 October 2016")

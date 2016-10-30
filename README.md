@@ -245,8 +245,10 @@ Source: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/Web%
 Demo: http://54.187.85.6
 	* Built on AngularJS, HTML, CSS
 
-<strong> How To Install the prototype:<strong>
-* Mobile Application:
+<strong> How To Install the prototype:</strong>
+
+<strong>Mobile Application:</strong>
+
 1. Install the required items, such as homebrew and NodeJS. The required items are as followed:
 - http://brew.sh/
 - https://nodejs.org/en/
@@ -264,7 +266,7 @@ Demo: http://54.187.85.6
 
 6. Additionally, to enables the scan features, download Aurasma Application on mobile phone.
 
-* Web Application:<br>
+<strong>Web Application:</strong><br>
 1. Run on the above demo URL to access them through web browser.
 
 * How to Run the prototype:

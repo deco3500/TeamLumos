@@ -197,7 +197,10 @@ However, for the prototype we’ll require the following items:
 
 # Summary
 
+<strong>Problem Space:</strong> sharing local news, encouraging and expanding local news with interactive way.<br>
+Local news has been submerged in the past few years and it has been overtaken by new source of media that offers more interactive way. This way of interaction is also makes people unaware of the local surrounding, environment nor its local community. People seems focused on more personalised device as a medium to consume news, lowering the social value that has been imbued in these activities.
 
+In the end, We would like bring back the idea of consuming news publically and make people discuss with each other to increase the social value in society. However, seeing that technology has already far advanced since decades ago, we would like to offer unique and interactive way to these solution so that it can attract people and society. Our solution is to create new technologies called News Truck where people is offered by source of information interactively, discussing it together and becaming a interest space for people to gather by numerous features/gimmick it provides for them.
 
 # Process
 
@@ -256,13 +259,13 @@ Demo: http://54.187.85.6
 <strong>Mobile Application:</strong>
 
 1. Install the required items, such as homebrew and NodeJS. The required items are as followed:
-- http://brew.sh/
-- https://nodejs.org/en/
+http://brew.sh/
+https://nodejs.org/en/
 
 2. Once the above is done, on iOS ONLY, run the following commands to setup react native
-- brew install node
-- brew install watchman
-- npm install -g react-native-cli
+brew install node
+brew install watchman
+npm install -g react-native-cli
 
 3. Now install xcode from the apple store
 
@@ -295,4 +298,12 @@ Demo: http://54.187.85.6
 Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_672661556227351_1603178817625522176_n.mp4
 - This video shows our product in real time
 
+<strong>Team Contribution:</strong>
+
+*Name* | *Contribution*
+--- | ---
+James Garrett | <ul><li>Promotional Video Editing</li><li>Toy Truck Prototype</li><li>Product Research</li><ul>
+Jason Pham | <ul><li>React Mobile Application</li><li>Back-End Laravel Development</li><<ul>
+Yen Ting Phang | <ul><li>Design & Mockup</li><li>Marvel App Prototype</li><ul>
+Yanuar Wicaksana | <ul><li>Web Application Prototype</li><li>Aurasma Technological Experiment</li>><ul>
 

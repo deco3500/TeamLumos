@@ -19,6 +19,8 @@ Welcome to team Lumos!
 - Laravel is a framework that has been used to implement the server. Hosted on Amazon EC2 services, it shows the basic process of uploading a comment and displaying it on our main content. Such endpoint includes the following
 	- GET: http://54.187.85.6/gitrepodeco3801/public/comments
 	- POST: http://54.187.85.6/gitrepodeco3801/public/addcomment [Form Data: "comment"]
+	
+https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/NewTruckServer
 
 ## Introduction
 Our Project is called News Truck. News truck is born from the problem where we think that the medium or tools used to share local news has been overtaken by more engaging new tools, and no longer meet the needs of the public. People have always had the tools to disconnect themselves from their surroundings (magazines, books, walkmans), but now more than ever, commuters and pedestrians can deafen their senses and become completely unaware of their surroundings. This lacks the solidarity of noticing a stranger is reading the same paper as you, prompting an impromptu discussion. Reading the contents of someone else’s phone is considered extremely intrusive - there are no perceivable common interests between strangers consuming the news, and news no longer needs to be consumed publicly. We would like to bring back this unification by creating a unique and mobile space where people can consume and discuss news publically.

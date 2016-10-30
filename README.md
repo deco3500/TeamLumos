@@ -12,7 +12,7 @@ Welcome to team Lumos!
 
 Protoype Installation and Running Guide detailed below.
 
-<strong>Promotional Video: https://youtu.be/dOTQqf7tYsQ</strong> </br>
+<strong>Promotional Video: https://youtu.be/2NF85wgTuYM</strong> </br>
 
 <strong>React Mobile Application:</strong> https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
 - React native is a framework that has been used to implement the application. A URL is provided to the location of the source code. The react native mobile application follows the same design scheme as our design prototype shown in Marvelapp, however is able to communicate to the server to display fresh comments. This is an initial implementation that shows the potential process of implementing the application</br>
@@ -278,14 +278,21 @@ npm install -g react-native-cli
 <strong>Web Application:</strong><br>
 1. Run on the above demo URL to access them through web browser.
 
-<strong> How to Run the prototype:</strong>
-1. Run the mobile application and open the web application separately.
-2. Login through the mobile application to give access to the application.(Dummy Features)
-3. On the home page, click on the scan button
-4. Because of technology limitation, integration of Aurasma Application is not available at this moment. Therefore, users should use Aurasma applition separately.
-5. User can scan through Aurasma app and scan the the news article to get URL for full articles through their mobile application browser.
-6. User then can upvote and downvote the articles.(Unimplemented, in the prototype it showed by the click of the icon and the number of the vote will incremented)
-7. User then can comment from the mobile application through provided commnet box. The comment will automatically send to the web application and then will be displayed in respective column
+<strong> How to Run the prototype:</strong><br>
+
+1. Run the mobile application and open the web application separately.<br>
+
+2. Login through the mobile application to give access to the application.(Dummy Features)<br>
+
+3. On the home page, click on the scan button.<br>
+
+4. Because of technology limitation, integration of Aurasma Application is not available at this moment. Therefore, users should use Aurasma applition separately.<br>
+
+5. User can scan through Aurasma app and scan the the news article to get URL for full articles through their mobile application browser.<br>
+
+6. User then can upvote and downvote the articles.(Unimplemented, in the prototype it showed by the click of the icon and the number of the vote will incremented)<br>
+
+7. User then can comment from the mobile application through provided commnet box. The comment will automatically send to the web application and then will be displayed in respective column.<br>
 
 <strong>Prototype Draft:</strong>
 
@@ -302,8 +309,27 @@ Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_6726615
 
 *Name* | *Contribution*
 --- | ---
-James Garrett | <ul><li>Promotional Video Editing</li><li>Toy Truck Prototype</li><li>Product Research</li><ul>
-Jason Pham | <ul><li>React Mobile Application</li><li>Back-End Laravel Development</li><<ul>
+James Garrett | <ul><li>Promotional Video Editing</li><li>3D Model Sketches</li><li>Product Research</li><ul>
+Jason Pham | <ul><li>React Mobile Application</li><li>Back-End Laravel Development</li><ul>
 Yen Ting Phang | <ul><li>Design & Mockup</li><li>Marvel App Prototype</li><ul>
-Yanuar Wicaksana | <ul><li>Web Application Prototype</li><li>Aurasma Technological Experiment</li>><ul>
+Yanuar Wicaksana | <ul><li>Web Application Prototype</li><li>Aurasma Technological Experiment</li><ul>
 
+Besides all the work mentioned above, all respective works is divided equally.
+
+<strong>Future Development</strong><br>
+We received so many feedback and suggestion throughout the project, and there are many great features that we would like to implement for future development. Some of it including:
+* Regardless of the context, adding more context outside local news will create more powerful mechanism for people to consume media and news directly
+* Using more medium such as video streaming will surely enhance the User Interaction with the tools.
+* Creating a mechanism where people can also input content and others stuff will improve the usablitty and functionality.
+* Social media Integration will mix people opinion to the existing news/article to create a chance of discussion and interaction.
+* Creating more interactive mechanism besides Augmented Reality, such as 3D Hologram.
+* Installing more point of interest besides cafe such as real food stall.
+All the features and idea above is still unprocessed and further concerns is still needed. Some of these ideas above will surely be a challenge in term of technological application and aspect.
+
+<strong>Technological Limitation and Real-World Limitation</strong>
+During these one semester ideas development and prototype creation, we encountered some drawbacks and limitation if we want to actually build this ideas to life. Some of the limitation are still tangible and can be solved in further development. However, there are still few implication and real life situation that limit the functionality of the News Truck. Some of the limitation that we found in this earlier stages including:
+* Aurasma Technologies integration to the native mobile application. To integrate the Aurasma Scanner and mechanism is surely be a challenge since the technologies is owned by someone else.
+* Truck Display that can fit properly into the side of a van/truck. The display needs to be durable as well since it will be exposed to the outside environment.
+* Automatic news integation. To pull the news from single/different sources in the internet. Does it need to be curated as well?
+* Dynamic Upvote/Downvote system where the display changed based on the hot article/news in the top page and downvoted news will dissapear.
+There are many more limitation and challenge if we want to build the ideas into reality. However, the prospect of these ideas will surely became one of the reason to overcome the drawbacks.

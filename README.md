@@ -14,6 +14,7 @@ Welcome to team Lumos!
 
 <strong>React Mobile Application:</strong> https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype 
 - React native is a framework that has been used to implement the application. A URL is provided to the location of the source code. The react native mobile application follows the same design scheme as our design prototype shown in Marvelapp, however is able to communicate to the server to display fresh comments. This is an initial implementation that shows the potential process of implementing the application</br>
+- Video of it interacting with our web app: https://github.com/deco3500/TeamLumos/blob/master/Final%20Prototype/Example%20of%20React%20working.mov
 
 <strong>Laravel Restful PHP Server:</strong> http://54.187.85.6/gitrepodeco3801/public/
 - Laravel is a framework that has been used to implement the server. Hosted on Amazon EC2 services, it shows the basic process of uploading a comment and displaying it on our main content. Such endpoint includes the following

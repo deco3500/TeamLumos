@@ -240,13 +240,13 @@ However, for the prototype we’ll require the following items:
 	* You will be required to build the application in React Native. Best way is to download DECO, import the source code and build 
 * Built Backend Laravel Server: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/NewTruckServer
 	* Hosted on Amazon EC2 Server. Basic service that accept 1 POST/GET request for comment updating
-* Built Client Side Web App: Source: 
-Source: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/Web%20Prototype 
+* Built Client Side Web App: Source: <br>
+Source: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/Web%20Prototype <br>
 Demo: http://54.187.85.6
 	* Built on AngularJS, HTML, CSS
 
-* How To Install the prototype:
-** Mobile Application:
+<strong> How To Install the prototype:<strong>
+* Mobile Application:
 1. Install the required items, such as homebrew and NodeJS. The required items are as followed:
 - http://brew.sh/
 - https://nodejs.org/en/
@@ -264,7 +264,7 @@ Demo: http://54.187.85.6
 
 6. Additionally, to enables the scan features, download Aurasma Application on mobile phone.
 
-** Web Application:
+* Web Application:<br>
 1. Run on the above demo URL to access them through web browser.
 
 * How to Run the prototype:

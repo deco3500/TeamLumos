@@ -192,6 +192,8 @@ However, for the prototype we’ll require the following items:
 
 **Journalism and News:** \#LocalNews, \#Community
 
+# Process
+
 ## Week 8 - Work Summary:
 
 ### Research:
@@ -228,7 +230,10 @@ However, for the prototype we’ll require the following items:
 	* Server on Laravel framework (PHP)
 	* Hosted on an Amazon EC2 Server
 
-### Prototypes:
+## Week 13:
+* Presented Pitch: https://github.com/deco3500/TeamLumos/blob/master/Prototype%20Feedback%20Reflection.md
+
+## Prototypes:
 
 * Built React Mobile application: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype
 	* You will be required to build the application in React Native. Best way is to download DECO, import the source code and build 
@@ -248,5 +253,4 @@ A draft prototype has been implemented:
 Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_672661556227351_1603178817625522176_n.mp4
 - This video shows our product in real time
 
-## Week 13:
-* Presented Pitch: https://github.com/deco3500/TeamLumos/blob/master/Prototype%20Feedback%20Reflection.md
+

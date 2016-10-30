@@ -239,8 +239,42 @@ However, for the prototype we’ll require the following items:
 	* You will be required to build the application in React Native. Best way is to download DECO, import the source code and build 
 * Built Backend Laravel Server: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/NewTruckServer
 	* Hosted on Amazon EC2 Server. Basic service that accept 1 POST/GET request for comment updating
-* Built Client Side Web App: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/Web%20Prototype 
-	* Built on AngularJS
+* Built Client Side Web App: Source: 
+Source: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/Web%20Prototype 
+Demo: http://54.187.85.6
+	* Built on AngularJS, HTML, CSS
+
+* How To Install the prototype:
+** Mobile Application:
+1. Install the required items, such as homebrew and NodeJS. The required items are as followed:
+- http://brew.sh/
+- https://nodejs.org/en/
+
+2. Once the above is done, on iOS ONLY, run the following commands to setup react native
+- brew install node
+- brew install watchman
+- npm install -g react-native-cli
+
+3. Now install xcode from the apple store
+
+4. Now install DECO IDE to easily run our react project. The installation can be found on the following site: https://www.decosoftware.com/
+
+5. Import our react project. Than Build. Once built run the simulator on selected phone platform.
+
+6. Additionally, to enables the scan features, download Aurasma Application on mobile phone.
+
+** Web Application:
+1. Run on the above demo URL to access them through web browser.
+
+* How to Run the prototype:
+1. Run the mobile application and open the web application separately.
+2. Login through the mobile application to give access to the application.(Dummy Features)
+3. On the home page, click on the scan button
+4. Because of technology limitation, integration of Aurasma Application is not available at this moment. Therefore, users should use Aurasma applition separately.
+5. User can scan through Aurasma app and scan the the news article to get URL for full articles through their mobile application browser.
+6. User then can upvote and downvote the articles.(Unimplemented, in the prototype it showed by the click of the icon and the number of the vote will incremented)
+7. User then can comment from the mobile application through provided commnet box. The comment will automatically send to the web application and then will be displayed in respective column
+
 
 A draft prototype has been implemented:
 

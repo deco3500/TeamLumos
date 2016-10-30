@@ -190,6 +190,8 @@ However, for the prototype we’ll require the following items:
 
 **Journalism and News:** \#LocalNews, \#Community
 
+## Week 8 - Work Summary:
+
 ### Research:
 
 * This research can be found here: https://github.com/deco3500/TeamLumos/blob/master/Research.md
@@ -197,7 +199,29 @@ However, for the prototype we’ll require the following items:
 * User Stories + Use Cases + Use Case Diagrams can be found here: https://github.com/deco3500/TeamLumos/blob/master/UserStories.md
 * A logistics summary of implementing the project, including costs, required power, size, and other info can be found here:  https://github.com/deco3500/TeamLumos/blob/master/Documents/Logistics_Summary_Excel.xlsx 
 * A rough 3D model of the project drawn to a reduced scale:   https://github.com/deco3500/TeamLumos/blob/master/3D_Sketch_Designs.md 
+* Billboard Interface Design: https://github.com/deco3500/TeamLumos/blob/master/BillboardDesign.png
+* UX Design of Mobile Application: https://github.com/deco3500/TeamLumos/blob/master/full2.png
+
+## Week 10 - Work Summary:
+* User Testing Research: https://github.com/deco3500/TeamLumos/blob/master/UserTesting.md
+* Use Case Document: https://github.com/deco3500/TeamLumos/blob/master/Documents/Use%20Case.docx
+* Use Case Diagram [UML], https://github.com/deco3500/TeamLumos/blob/master/Images/UseCaseDiagram.jpg
+* Research into Aurasma: In summary we found that this is a paid product. It was determined that for our prototype, we'd use an example and will be shown in video. Provides clear idea of what the product suppose to do
+* Prototype of truck:
+	* https://github.com/deco3500/TeamLumos/blob/master/Images/Basic%20Truck%20Sketch_v1_3.png
+	* https://github.com/deco3500/TeamLumos/blob/master/Images/Basic_Truck%20Sketch_v1_1.png
+	* https://github.com/deco3500/TeamLumos/blob/master/Images/Basic_Truck_Sketch_v1_2.png
+	* https://github.com/deco3500/TeamLumos/blob/master/Images/Basic_Truck_Sketch_v1_4.png
+
+## Week 12 - Work Summary: 
 ### Prototypes:
+
+* Built React Mobile application: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype
+	* You will be required to build the application in React Native. Best way is to download DECO, import the source code and build 
+* Built Backend Laravel Server: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/NewTruckServer
+	* Hosted on Amazon EC2 Server. Basic service that accept 1 POST/GET request for comment updating
+* Built Client Side Web App: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/Web%20Prototype 
+	* Built on AngularJS
 
 A draft prototype has been implemented:
 
@@ -209,3 +233,6 @@ A draft prototype has been implemented:
 ![Figure 6](Images/14708373_10210316740665355_3486734363738559688_n.jpg?raw=true "7 October 2016")
 Video: https://github.com/deco3500/TeamLumos/blob/master/Images/14819800_672661556227351_1603178817625522176_n.mp4
 - This video shows our product in real time
+
+## Week 13:
+* Presented Pitch: https://github.com/deco3500/TeamLumos/blob/master/Prototype%20Feedback%20Reflection.md

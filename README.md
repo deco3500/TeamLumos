@@ -323,13 +323,13 @@ We received so many feedback and suggestion throughout the project, and there ar
 * Creating a mechanism where people can also input content and others stuff will improve the usablitty and functionality.
 * Social media Integration will mix people opinion to the existing news/article to create a chance of discussion and interaction.
 * Creating more interactive mechanism besides Augmented Reality, such as 3D Hologram.
-* Installing more point of interest besides cafe such as real food stall.
+* Installing more point of interest besides cafe such as real food stall.<br>
 All the features and idea above is still unprocessed and further concerns is still needed. Some of these ideas above will surely be a challenge in term of technological application and aspect.
 
-<strong>Technological Limitation and Real-World Limitation</strong>
+<strong>Technological Limitation and Real-World Limitation</strong><br>
 During these one semester ideas development and prototype creation, we encountered some drawbacks and limitation if we want to actually build this ideas to life. Some of the limitation are still tangible and can be solved in further development. However, there are still few implication and real life situation that limit the functionality of the News Truck. Some of the limitation that we found in this earlier stages including:
 * Aurasma Technologies integration to the native mobile application. To integrate the Aurasma Scanner and mechanism is surely be a challenge since the technologies is owned by someone else.
 * Truck Display that can fit properly into the side of a van/truck. The display needs to be durable as well since it will be exposed to the outside environment.
 * Automatic news integation. To pull the news from single/different sources in the internet. Does it need to be curated as well?
-* Dynamic Upvote/Downvote system where the display changed based on the hot article/news in the top page and downvoted news will dissapear.
+* Dynamic Upvote/Downvote system where the display changed based on the hot article/news in the top page and downvoted news will dissapear.<br>
 There are many more limitation and challenge if we want to build the ideas into reality. However, the prospect of these ideas will surely became one of the reason to overcome the drawbacks.

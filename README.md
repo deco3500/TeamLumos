@@ -214,6 +214,18 @@ However, for the prototype we’ll require the following items:
 	* https://github.com/deco3500/TeamLumos/blob/master/Images/Basic_Truck_Sketch_v1_4.png
 
 ## Week 12 - Work Summary: 
+
+* At this point, we identified that the truck could also cater as a food truck. So at around this point, a small addition was added to the product. Thus, the truck would contain the following features
+	* Be a food truck, as a secondary source of income. Thus, making it a lot more potentially viable
+	* Provide free wifi
+	* Local news, that users can interact with on their mobile
+	* The noted features above are intended to create a hotspot or community around these trucks
+* The product is quite fesiable, as displayed by the prototype below. It provides a general idea of how you'd go around building this product
+	* Mobile app built on React Native
+	* Website (Billboard) built from AngularJS
+	* Server on Laravel framework (PHP)
+	* Hosted on an Amazon EC2 Server
+
 ### Prototypes:
 
 * Built React Mobile application: https://github.com/deco3500/TeamLumos/tree/master/Final%20Prototype/React%20Prototype
